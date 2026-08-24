@@ -1,0 +1,6 @@
+gradio
+spacy
+sickit-learn
+transformers
+sentencepiece
+torch
