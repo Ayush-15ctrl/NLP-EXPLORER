@@ -4,3 +4,6 @@ sickit-learn
 transformers
 sentencepiece
 torch
+fastapi
+uvicorn
+pydantic
